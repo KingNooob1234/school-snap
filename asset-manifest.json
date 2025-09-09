@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-snap/static/css/main.e6c13ad2.css",
+    "main.js": "/school-snap/static/js/main.f212971f.js",
+    "static/js/453.798c3466.chunk.js": "/school-snap/static/js/453.798c3466.chunk.js",
+    "index.html": "/school-snap/index.html",
+    "main.e6c13ad2.css.map": "/school-snap/static/css/main.e6c13ad2.css.map",
+    "main.f212971f.js.map": "/school-snap/static/js/main.f212971f.js.map",
+    "453.798c3466.chunk.js.map": "/school-snap/static/js/453.798c3466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f212971f.js"
+  ]
+}
